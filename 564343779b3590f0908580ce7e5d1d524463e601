@@ -1,0 +1,9 @@
+Ok-To-Test+1: Thang Q. Nguyen <thang@os.amperecomputing.com>
+Code-Review+1: Tung Nguyen <tungnguyen@os.amperecomputing.com>
+Code-Review+2: Thang Q. Nguyen <thang@os.amperecomputing.com>
+Verified+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Submitted-by: Thang Q. Nguyen <thang@os.amperecomputing.com>
+Submitted-at: Mon, 11 Jan 2021 03:11:45 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-ampere/+/39536
+Project: openbmc/meta-ampere
+Branch: refs/heads/master
